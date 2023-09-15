@@ -10,5 +10,4 @@ public class LayeredArchitectureApplication {
         SpringApplication.run(LayeredArchitectureApplication.class, args);
     }
 
-
 }
